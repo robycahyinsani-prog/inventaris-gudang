@@ -2,12 +2,12 @@
 
 Aplikasi web dinamis Full-Stack berbasis server-side untuk sistem manajemen operasional inventaris gudang. Dibuat untuk memenuhi UAS Web Application Development.
 
-## 🚀 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Backend:** Laravel 11 (PHP 8.2)
 - **Frontend:** React (Inertia.js) + Tailwind CSS
 - **Database:** MySQL
 
-## ✨ Fitur Utama
+## Fitur Utama
 - **Autentikasi:** Login, Register, Logout yang aman.
 - **Role-Based Access Control (RBAC):** Admin dapat melakukan CRUD penuh, Staff hanya dapat melihat data.
 - **CRUD Kategori:** Tambah, Lihat, Edit, Hapus Kategori.
@@ -15,12 +15,12 @@ Aplikasi web dinamis Full-Stack berbasis server-side untuk sistem manajemen oper
 - **Transaksi Stok:** Pencatatan barang masuk/keluar yang otomatis memperbarui stok produk.
 - **Dashboard Interaktif:** Ringkasan total produk, kategori, stok, dan peringatan stok menipis.
 
-## 🔐 Informasi Akses (Akun Dummy)
+## Informasi Akses (Akun Dummy)
 Gunakan akun berikut untuk mencoba aplikasi:
 - **Admin:** `admin@example.com` | Password: `password`
 - **Staff:** `staff@example.com` | Password: `password`
 
-## 🛠️ Cara Instalasi di Komputer Lokal
+##  Cara Instalasi di Komputer Lokal
 
 Pastikan Anda sudah menginstal **PHP 8.2+**, **Composer**, **Node.js**, dan **MySQL** (XAMPP).
 
