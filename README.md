@@ -20,8 +20,6 @@ Gunakan akun berikut untuk mencoba aplikasi:
 - **Admin:** `admin@example.com` | Password: `password`
 - **Staff:** `staff@example.com` | Password: `password`
 
-## Cara Instalasi di Komputer Lokal
-
 Pastikan Anda sudah menginstal **PHP 8.2+**, **Composer**, **Node.js**, dan **MySQL** (XAMPP).
 
 1. Clone repository ini atau ekstrak file project.
